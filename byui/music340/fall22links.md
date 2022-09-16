@@ -1,4 +1,4 @@
-# Universtiy Orchestra (MUSIC 340) - Fall, 2022 Music Links
+# MUSIC 340 - Fall 2022 Music Links - University Orchestra
 
 ## Mozart - Divertimento
 
@@ -47,3 +47,7 @@
 ## Rutter's Suite for Strings
 
 [Medium Tempo](https://www.youtube.com/watch?v=7_mqNz0tt8A)
+
+
+
+Disclaimer: This page is unaffiliated with the school and class in any way.
