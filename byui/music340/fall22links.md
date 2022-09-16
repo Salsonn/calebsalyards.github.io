@@ -44,3 +44,7 @@
 [Slower Quartet](https://www.youtube.com/watch?v=8cStDj3wKbQ&t=32s)
 
 [Faster Quartet, still camera](https://www.youtube.com/watch?v=QvApdQZZ7DI). Good for watching bowing, etc.
+
+## Rutter's Suite for Strings
+
+[Medium Tempo](https://www.youtube.com/watch?v=7_mqNz0tt8A)
