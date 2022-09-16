@@ -1,5 +1,4 @@
-# Universtiy Orchestra (MUSIC 340)
-# Fall, 2022 Music Links
+# Universtiy Orchestra (MUSIC 340) - Fall, 2022 Music Links
 
 ## Mozart - Divertimento
 
