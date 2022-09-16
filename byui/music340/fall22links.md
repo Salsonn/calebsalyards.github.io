@@ -2,51 +2,51 @@
 
 ## Mozart - Divertimento
 
-[Played at tempo](https://www.youtube.com/watch?v=7FRYoBy7iT8)
+[Played at tempo](https://www.youtube.com/watch?v=7FRYoBy7iT8) - Youtube
 
-[1st Violin only, Slow Tempo](https://www.youtube.com/watch?v=Zyf2EpBz2GY)
+[1st Violin only, Slow Tempo](https://www.youtube.com/watch?v=Zyf2EpBz2GY) - Youtube
 
-[2nd Violin only, Slow Tempo](https://www.youtube.com/watch?v=Z2srsvqT2TM)
+[2nd Violin only, Slow Tempo](https://www.youtube.com/watch?v=Z2srsvqT2TM) - Youtube
 
 ## Anderson - Pastores a Belen
 
-[Played at tempo](https://www.youtube.com/watch?v=d9sKtThoL3A)
+[Played at tempo](https://www.youtube.com/watch?v=d9sKtThoL3A) - Youtube
 
-[Slower](https://www.youtube.com/watch?v=lWgAoUC4F88)
+[Slower](https://www.youtube.com/watch?v=lWgAoUC4F88) - Youtube
 
 ## Anderson - Bring a Torch
 
-[Played at tempo](https://www.youtube.com/watch?v=D8Sw6pfA70Q)
+[Played at tempo](https://www.youtube.com/watch?v=D8Sw6pfA70Q) - Youtube
 
 ## Holst - Brook Green Suite
 
-[Played at tempo](https://www.youtube.com/watch?v=UhMOgXcCtcA)
+[Played at tempo](https://www.youtube.com/watch?v=UhMOgXcCtcA) - Youtube
 
 ## Janáček - Suite
 
-[Played at Tempo](https://www.youtube.com/watch?v=BdlxDzmmy-Q&t=103s)
+[Played at Tempo](https://www.youtube.com/watch?v=BdlxDzmmy-Q&t=103s) - Youtube
 
-[Slower with Score](https://www.youtube.com/watch?v=R-F_zHIMJz8)
+[Slower with Score](https://www.youtube.com/watch?v=R-F_zHIMJz8) - Youtube
 
 ## Dream of a Witches' Sabbath
 
-[Slower?](https://www.youtube.com/watch?v=4tsGQ5tU4z4)
+[Slower?](https://www.youtube.com/watch?v=4tsGQ5tU4z4) - Youtube
 
 ## Tchaikovsky's Nutcraker - Russian Dance
 
-[Scary fast](https://www.youtube.com/watch?v=H28o3j58aME)
+[Scary fast](https://www.youtube.com/watch?v=H28o3j58aME) - Youtube
 
-[Less fast](https://www.youtube.com/watch?v=6w9h9XbWp8E)
+[Less fast](https://www.youtube.com/watch?v=6w9h9XbWp8E) - Youtube
 
-[Slower](https://www.youtube.com/watch?v=gVNRm1Q1fqg)
+[Slower](https://www.youtube.com/watch?v=gVNRm1Q1fqg) - Youtube
 
-[Slower Quartet](https://www.youtube.com/watch?v=8cStDj3wKbQ&t=32s)
+[Slower Quartet](https://www.youtube.com/watch?v=8cStDj3wKbQ&t=32s) - Youtube
 
-[Faster Quartet, still camera](https://www.youtube.com/watch?v=QvApdQZZ7DI). Good for watching bowing, etc.
+[Faster Quartet, still camera](https://www.youtube.com/watch?v=QvApdQZZ7DI). Good for watching bowing, etc. - Youtube
 
 ## Rutter's Suite for Strings
 
-[Medium Tempo](https://www.youtube.com/watch?v=7_mqNz0tt8A&t=12s)
+[Medium Tempo](https://www.youtube.com/watch?v=7_mqNz0tt8A&t=12s) - Youtube
 
 
 
