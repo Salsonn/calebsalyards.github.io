@@ -46,7 +46,7 @@
 
 ## Rutter's Suite for Strings
 
-[Medium Tempo](https://www.youtube.com/watch?v=7_mqNz0tt8A)
+[Medium Tempo](https://www.youtube.com/watch?v=7_mqNz0tt8A&t=12s)
 
 
 
