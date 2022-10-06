@@ -6,6 +6,8 @@
 
 [1st Violin only, Slow Tempo](https://www.youtube.com/watch?v=Zyf2EpBz2GY) - Youtube
 
+[1st Violin Bowings](https://www.dropbox.com/scl/fo/dwr629aq28vh9f818p6tq/h?dl=0&preview=Violin+I-+Mozart+with+Bowings.pdf&rlkey=wbmjaj9laff4sqjpoqsqmfv15) - DropBox
+
 [2nd Violin only, Slow Tempo](https://www.youtube.com/watch?v=Z2srsvqT2TM) - Youtube
 
 ## Anderson - Pastores a Belen
@@ -21,6 +23,10 @@
 ## Holst - Brook Green Suite
 
 [Played at tempo](https://www.youtube.com/watch?v=UhMOgXcCtcA) - Youtube
+
+[1st Violin](https://www.youtube.com/watch?app=desktop&v=oFOgMDcLRQA) - Youtube
+
+[2nd Violin](https://www.youtube.com/watch?app=desktop&v=aDaUr2GFmO8) - Youtube
 
 ## Janáček - Suite
 
