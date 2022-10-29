@@ -36,7 +36,9 @@
 
 ## Dream of a Witches' Sabbath
 
-[Slower?](https://www.youtube.com/watch?v=4tsGQ5tU4z4) - Youtube
+[Fast](https://www.youtube.com/watch?v=4tsGQ5tU4z4) - Youtube
+
+[Slower, other song in video](https://www.youtube.com/watch?v=zk8HAllikik&t=330s) - Youtube
 
 ## Tchaikovsky's Nutcraker - Russian Dance
 
