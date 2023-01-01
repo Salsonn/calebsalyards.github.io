@@ -80,16 +80,23 @@
   * 160w @ 5V + 3V
 
 ## Price Summary (as of 2023-01-01)
-| Item | Price |
-| ---- | ----- |
-| Motherboard | $400 |
-| Cooler | $90 |
-| CPU | $450 |
-| RAM | $200 |
-| GPU | $550 |
-| WD Blue 1TB | $40 |
-| PSU | $120 |
-| Case [(OEM)](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6032/6032004cv11d.jpg) | $100 |
-| [3x Fans](https://www.amazon.com/dp/B07CG2PGY6) | $45 |
-| [3x Fans](https://www.amazon.com/dp/B07KGYG8N7) | $35 |
-| Total | $2,030 |
+```
+|     Item      | Price
+| ------------- | -------
+| Motherboard   | $400
+| Cooler        | $90
+| CPU           | $450
+| RAM           | $200
+| GPU           | $550
+| WD Blue 1TB   | $40
+| PSU           | $120
+| Case          | $100
+| 3x Fans*      | $45
+| 3x RGB Fans** | $35
+| Total         | $2,030
+```
+\* Value approximated for OEM chassis. Product is only available in pre-built PCs [(Image)](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6032/6032004cv11d.jpg).
+
+** [Noctua NF-P12](https://www.amazon.com/dp/B07CG2PGY6)
+
+*** [Corsair AF120 LED](https://www.amazon.com/dp/B07KGYG8N7)
