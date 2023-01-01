@@ -15,8 +15,8 @@ None of these are considered, although aspects that the 80+ standard uses in its
 Correlations, if any, should be considered widely variable between different power supply models.
 
 ## See Also:
-
-* Video: Gamers Nexus | [YouTube](https://www.youtube.com/watch?v=QrhuOwNdkA4)
-* Article: Wikipedia | [_80 Plus_](https://en.wikipedia.org/wiki/80_Plus)
-* Article: Gamers Nexus | [_PSU - 80 Plus_](https://www.gamersnexus.net/dictionary/6-psu/60-80-plus)
-* Reference: Clear Result | [_80 Plus Overview_](https://www.clearesult.com/80plus/)
+Format | Source | Name
+Reference | Clear Result | [_80 Plus Overview_](https://www.clearesult.com/80plus/)
+Video | Gamers Nexus | [YouTube](https://www.youtube.com/watch?v=QrhuOwNdkA4)
+Article | Wikipedia | [_80 Plus_](https://en.wikipedia.org/wiki/80_Plus)
+Article | Gamers Nexus | [_PSU - 80 Plus_](https://www.gamersnexus.net/dictionary/6-psu/60-80-plus)
