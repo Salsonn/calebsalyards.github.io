@@ -25,6 +25,8 @@ So I built a case.
 
 ![Project Blackbox, but the backside this time.](img/blackbox-back.jpg "Back side of Project Blackbox")
 
+I won't lie, it's somewhat ramshackle-looking, but it's sturdy and performs well, and that was my goal.
+
 
 ## Background
 
