@@ -10,10 +10,20 @@ I got my hands on one for my backpack PC build, but it was missing both the shro
 
 Introducing the Noctua GTX 1080 Mini:
 
-![The so-called Noctua GTX 1080 Mini, a Zotac 1080 Mini with a custom-built shroud and Noctua fans to mimic ASUS's Noctua RTX 3070](img/noctua1080.png "Noctua GTX 1080 Mini")
+![The so-called Noctua GTX 1080 Mini, a Zotac 1080 Mini with a custom-built shroud and Noctua fans to mimic ASUS's Noctua RTX 3070](img/noctua1080.jpg "Noctua GTX 1080 Mini")
 
 Inspired by the ASUS Noctua RTX 3070, this GPU has a custom-built shroud to help house two low-profile Noctua fans. 
 They run nearly silent while keeping the GPU underneath at a cool 80 degrees, even when tucked away inside my backpack-sized PC.
+
+### Project Blackbox - An All-Custom Budget Build
+
+Ever have a bunch of spare ingredients lying around to make something really good? Well, I had everything but a case to build a pretty decent PC.
+
+So I built a case.
+
+![Project Blackbox, a hodgepodge of mid-tier components assembled into a custom-built chassis.](img/blackbox.jpg "Project Blackbox")
+
+![Project Blackbox, but the backside this time.](img/blackbox-back.jpg "Back side of Project Blackbox")
 
 
 ## Background
