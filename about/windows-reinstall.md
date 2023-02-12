@@ -18,4 +18,4 @@ Give me a laptop and a day, and I'll have your laptop running good as new withou
 A new PC is an exciting time, but it can be a pain as well. 
 Suddenly you have stuff in two different places, and it can be hard to keep track of where everything is and what you moved over.
 
-You're not a lone. I've done this a lot myself, and I know how to do it fast to keep downtime to a minimum.
+You're not alone. I've done this a lot myself, and I know how to do it fast to keep downtime to a minimum.
