@@ -1,3 +1,8 @@
+<head>
+  <link rel="shortcut icon" type="image/png" 
+    href="{{ "/assets/favicon.png"  | absolute_url }}">
+</head>
+
 # 💫About Me:
 Learning and working with databases, system administration, and automation.
 <!--<br>Python, C#, SQL
