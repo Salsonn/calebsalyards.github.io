@@ -5,7 +5,10 @@
 </head>
 
 # 💫About Me:
-Learning and working with databases, system administration, and automation.
+Hello! I'm Caleb Salyards, I love learning and working with databases, system administration, and automation.
+<!-- ## 🌐 Socials: -->
+[![GitHub](https://img.shields.io/badge/GitHub-indigo?logo=github&logoColor=white)](https://github.com/CalebSalyards) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/caleb-salyards) 
 <!--<br>Python, C#, SQL
 <br>Linux, Windows, Bash-->
 
@@ -22,12 +25,11 @@ Learning and working with databases, system administration, and automation.
 - [docker-automation](https://github.com/CalebSalyards/docker-automations) - Tools for automatic install and uninstall of Docker on Windows systems.
 - [authentication-test](https://github.com/CalebSalyards/authentication-test) - Kubernetes deployment for rudimentary web server authentication. 
 
-I'm pursuing a Bachelor's degree in Computer Information Technology from Brigham Young University - Idaho with both Database and System Administration certificate emphasis, and a minor in Computer Science.
+### Background
+I'm pursuing a Bachelor's degree in Computer Information Technology from Brigham Young University - Idaho with both Database and System Administration certificate emphasis, and a minor in Computer Science. I'm deep into the weeds of self-hosting and migrating to Linux.
 
 
 
-<!-- ## 🌐 Socials: -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/caleb-salyards) 
 
 
 ## 💻 Tech Stack:
@@ -48,7 +50,7 @@ I'm pursuing a Bachelor's degree in Computer Information Technology from Brigham
 ![Tailscale](https://img.shields.io/badge/Tailscale-grey?style=for-the-badge&logo=tailscale)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-white?style=for-the-badge&logo=cloudflare)
 ![Terraform](https://img.shields.io/badge/Terraform-lightgrey?style=for-the-badge&logo=terraform)
-![Traefik Proxy](https://img.shields.io/badge/Terraform-teal?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![Traefik Proxy](https://img.shields.io/badge/Traefik_Proxy-teal?style=for-the-badge&logo=traefikproxy&logoColor=white)
 
 ### Languages 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
